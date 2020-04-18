@@ -1,0 +1,2 @@
+export const GET_ALL_CIDADES_BY_UF = 'GET_ALL_CIDADES_BY_UF';
+export const LOADING_CIDADE = 'LOADING_CIDADE';
